@@ -1,5 +1,5 @@
 # LockdownWin
-Automated workflow that disables main telemetry services that are shipped with Windows 11 PCs. Remove any kernel level unnecessary interventions. Firewall rules to ensure hardened network security. Implemented on multiple layers of persistence to ensure service(s) can't be used. 
+Automated workflow that disables main telemetry services that are shipped with Windows 11 PCs. Remove any kernel level unnecessary interventions. Firewall rules to ensure hardened network security. Implemented on multiple layers of anti-revision persistence to ensure service(s) can't be used. 
 
 ## Features
 - Disables main telemetry services

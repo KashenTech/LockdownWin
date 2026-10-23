@@ -1,0 +1,22 @@
+# Environment & User Configs
+.env
+*.env.local
+
+# Audit Logs, State Snapshots & Registry Backups (Contains local machine SIDs/info)
+logs/
+backups/
+*.log
+*.reg
+*state*.json
+
+# VS Code / Linux / Windows Editor Artifacts
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+*~
+
+# Temporary Test Artifacts
+tmp/
+*.tmp
