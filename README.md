@@ -3,9 +3,10 @@ Automated workflow that disables main telemetry services that are shipped with W
 
 ## Features
 - Disables main telemetry services
-- Implements multiple layers of persistence
 - Disable **wlidsvc** (Which is a system service that manages Microsoft Account services on your Local PC) *Disabling this will not affect you if you have Local Account and don't use Microsoft Account integrations within your laptop*
-- 
+- Disable Ports Legacy Protocols 
+- Disable CoPilot and Recall
+- Implements multiple layers of persistence
 
 
 ## Automated Security Checks
