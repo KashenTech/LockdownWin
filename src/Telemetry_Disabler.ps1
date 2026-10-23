@@ -1,4 +1,4 @@
-Set-Content -Path ".\Disable_Hardware_Fing.ps1" -Encoding UTF8 -Value @'
+ #Set-Content -Path ".\Disable_Hardware_Fing.ps1" -Encoding UTF8 -Value @'
 #Requires -RunAsAdministrator
 <#
 .SYNOPSIS
