@@ -4,8 +4,9 @@ Automated workflow that disables main telemetry services that are shipped with W
 ## Features
 - Disables main telemetry services
 - Disable **wlidsvc** (Which is a system service that manages Microsoft Account services on your Local PC) *Disabling this will not affect you if you have Local Account and don't use Microsoft Account integrations within your laptop*
+> Important to note that this will break the Xbox Game Bar, Microsoft Store, and PC Game Pass.
 - Disable Ports Legacy Protocols 
-- Disable CoPilot and Recall
+- Disable AI Features like CoPilot and Recall
 - Implements multiple layers of persistence
 
 
